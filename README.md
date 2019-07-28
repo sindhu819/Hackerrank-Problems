@@ -1,4 +1,4 @@
-This repository consists of Hackerarnk linux shell problems
+This repository consists of Hackerrank linux shell problems. 
 
 # HackerRank Solution
 * Shell
@@ -27,3 +27,13 @@ Text Processing |Easy| [Middle of the text file](https://www.hackerrank.com/chal
 Text Processing |Easy| [Tail #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) |
 Text Processing |Easy| [Tail #2](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) |
 Text Processing |Easy| [Tr #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) |
+Text Processing |Easy| [Tr #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem) |
+Text Processing |Easy| [Tr #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) |
+Text Processing |Easy| [Sort #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem) |
+Text Processing |Easy| [Sort #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) |
+Text Processing |Easy| [Sort #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) |
+Text Processing |Easy| [Sort #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) |
+Text Processing |Easy| [Sort #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) |
+Text Processing |Easy| [Sort #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) |
+Text Processing |Easy| [Sort #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) |
+Text Processing |Easy| [Unique #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem) |
