@@ -10,3 +10,4 @@
  Bash | Easy | [The world of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) | [The world of numbers.sh](https://github.com/sindhu819/hackerearth-problems/blob/master/Shell/The%20world%20of%20numbers.sh)
  Bash | Easy | [Getting started with numbers](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [Getting started of numbers](https://github.com/sindhu819/hackerearth-problems/blob/master/Shell/Getting%20started%20with%20numbers.sh)
  Bash | Easy | [More on Conditionals](https://github.com/sindhu819/hackerearth-problems/blob/master/Shell/Getting%20started%20with%20numbers.sh) | [More on conditionals.sh](https://github.com/sindhu819/hackerearth-problems/blob/master/Shell/More%20on%20conditionals.sh)
+Text Processing |Easy| [cut#1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) |
