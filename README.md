@@ -1,3 +1,5 @@
+This repository consists of Hackerarnk linux shell problems
+
 # HackerRank Solution
 * Shell
 
