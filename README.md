@@ -34,6 +34,6 @@ Text Processing |Easy| [Sort #2](https://www.hackerrank.com/challenges/text-proc
 Text Processing |Easy| [Sort #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) |[sort #3.sh](https://github.com/sindhu819/Hackerrank-Problems/blob/master/Shell/sort%20%233.sh)
 Text Processing |Easy| [Sort #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) |[sort #4.sh](https://github.com/sindhu819/Hackerrank-Problems/blob/master/Shell/sort%20%234.sh)
 Text Processing |Easy| [Sort #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) |[sort #5.sh](https://github.com/sindhu819/Hackerrank-Problems/blob/master/Shell/sort%20%235.sh)
-Text Processing |Easy| [Sort #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) |[sort #6.sh](https://github.com/sindhu819/Hackerrank-Problems/blob/master/Shell/sort%20%236.sh)
-Text Processing |Easy| [Sort #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) |[sort #7.sh](https://github.com/sindhu819/Hackerrank-Problems/blob/master/Shell/sort%20%237.sh)
+Text Processing |Easy| [Sort #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) |[sort #6.sh](https://github.com/sindhu819/Hackerrank-Problems/blob/master/Shell/Sort%20%236.sh)
+Text Processing |Easy| [Sort #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) |[sort #7.sh](https://github.com/sindhu819/Hackerrank-Problems/blob/master/Shell/Sort%20%237.sh)
 Text Processing |Easy| [Unique #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem) |[uniq.sh](https://github.com/sindhu819/Hackerrank-Problems/blob/master/Shell/unique%20%231.sh)
